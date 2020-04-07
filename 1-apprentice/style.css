@@ -1,3 +1,12 @@
 /* making changes here. */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
-drgdgfdgfdgfdgfdgdg do dfg
+}
+
+h1 { color: yellow;}
+
+h2 { color: gray;}
+[class^="sec"] {color: blueviolet;}
+
+.mainDetails { text-align: center;}
